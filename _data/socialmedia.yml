@@ -1,0 +1,6 @@
+- name: GitHub
+  url: http://github.com/charite
+  class: icon-github
+  title: "CBCB - Github"
+
+
