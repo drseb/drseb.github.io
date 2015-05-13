@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "CBCB - Computational Biology at Charité Berlin"
+title: "Sebastian Köhler - Bioinformatics@Charité Berlin"
 header:
    image_fullwidth: "header_unsplash_11.png"
 widget-1:

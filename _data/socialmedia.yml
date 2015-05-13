@@ -7,3 +7,8 @@
   url: https://de.linkedin.com/in/koehlers
   class: icon-linkedin
   title: "Sebastian on LinkedIn"
+
+- name: Scholar 
+  url: https://scholar.google.com/citations?user=fqukiWoAAAAJ
+  class: icon-lab-flask
+  title: "Sebastian on GoogleScholar"
