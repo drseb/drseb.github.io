@@ -1,6 +1,9 @@
 - name: GitHub
-  url: http://github.com/charite
+  url: http://github.com/drseb
   class: icon-github
-  title: "CBCB - Github"
+  title: "Sebastian on Github"
 
-
+- name: LinkedIn 
+  url: https://de.linkedin.com/in/koehlers
+  class: icon-linkedin
+  title: "Sebastian on LinkedIn"

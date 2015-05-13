@@ -8,20 +8,20 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "CBCB"
+title: "Sebastian Köhler"
 
  
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "My slogan"
+slogan: "Bioinformatics"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Another description"
+description: "Homepage"
 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://drseb.github.io/"
+url: "http://drseb.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
