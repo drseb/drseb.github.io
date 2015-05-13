@@ -21,7 +21,7 @@ description: "Another description"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://phlow.github.io/feeling-responsive"
+url: "http://drseb.github.io/"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
