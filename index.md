@@ -20,7 +20,7 @@ widget-2:
     image: github-303x182.jpg
 widget-3:
     title: "Blog"
-    url: 'http://github.com/drseb'
+    url: 'http://drseb.github.io/blog/'
     text: 'some more text '
     image: unsplash_4-303x182.jpg
 ---
