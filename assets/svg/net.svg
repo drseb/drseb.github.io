@@ -17,10 +17,13 @@
    style="enable-background:new 0 0 20 20;"
    xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="net.svg"><metadata
+   sodipodi:docname="net.svg"
+   inkscape:export-filename="/Users/sebastiankohler/git/drseb.github.io/assets/svg/net.png"
+   inkscape:export-xdpi="4500"
+   inkscape:export-ydpi="4500"><metadata
      id="metadata3399"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs3397" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,8 +38,8 @@
      id="namedview3395"
      showgrid="false"
      inkscape:zoom="34.78347"
-     inkscape:cx="0.90132908"
-     inkscape:cy="11.143734"
+     inkscape:cx="11.207949"
+     inkscape:cy="9.9937625"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
