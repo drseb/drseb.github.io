@@ -16,7 +16,7 @@ slogan: "Sebastian Köhler's Homepage"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Homepage, Sebastian Köhler, Bioinformatics, Semantics of biology, Phenotype"
+description: "Sebastian Köhler, Bioinformatics, Semantics of biology, Phenotype"
 
 
 # This URL is the main adresse. Don't include a slash at the end.
@@ -183,7 +183,7 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #
 # used in _includes/comments.html
 
-disqus_shortname: feelingresponsive
+#disqus_shortname: feelingresponsive
 
 
 #      _____                

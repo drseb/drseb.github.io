@@ -35,8 +35,8 @@
   - title: "Old projects"
     url: "/blog/"
 
-- title: Blog
-  url: "/blog/"
+- title: CV
+  url: "/cv/"
   side: left
 
 - title: "Contact"
