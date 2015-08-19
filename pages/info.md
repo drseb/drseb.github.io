@@ -1,51 +1,25 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
+subheadline: "Who am I?"
 show_meta: false
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "I studied bioinformatics in Berlin and did my PhD in Peter Robinson's lab. I am a lead developer of the HPO and I love Java. Besides that I like web programming."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
-
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
 
 
-## Features
+I am big fan of information visualisation. I love elegant web-applications. At the moment I am working a lot with [vaadin][1]. 
 
-* Responsive Gallery, Videos, Grid, Typography,...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
+I have done some work using protein network analysis, namely I developed the [GeneWanderer][2] for identifying disease-relevant genes using a random-walk approach. 
+I also use machine learing methods such as SVMs etc.
 
+During my PhD I helped developing the [Human Phenotype Ontology][3]. I have published several tools and methods to harness the content of HPO 
+for several purposes. This lead me to the semantic web world.
 
+I program in Java most of the time, but I speak multiple languages.
 
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: #
- [9]: #
- [10]: #
+ [1]: https://vaadin.com/
+ [2]: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fqukiWoAAAAJ&citation_for_view=fqukiWoAAAAJ:Tyk-4Ss8FVUC
+ [3]: http://human-phenotype-ontology.org/
