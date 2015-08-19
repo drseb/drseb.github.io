@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Build path problems with OWL-API"
 title:  "OWL-API 4.1.0 RC2"
-teaser: "Just spend several hours fixing a build path problem... pheww"
+teaser: "Just spend several hours fixing a build path problem..."
 categories:
     - ontologies
     - owlapi
@@ -21,7 +21,7 @@ in my build path, which leads to very mysterious errors such as:
 See also [this thread](http://sourceforge.net/p/owlapi/mailman/owlapi-developer/thread/CAD2jOMNsHZwTEKmQ53884rCgijy%2Bkt%2BLJ_u_oFbvUZ1SSGgJFw%40mail.gmail.com/#msg34384274) from the
 OWL API mailing list.
 
-I am nervously wating for version RC4.
+I am nervously waiting for version RC4.
 
 ### Other owlapi posts
 {: .t60 }
