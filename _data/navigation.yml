@@ -7,33 +7,26 @@
   side: left
   dropdown:
   - title: "Ontologies"
-    url: "/design/typography/"
+    url: "/projects/ontologies/"
   - title: "Networks"
-    url: "/design/typography/"
+    url: "/projects/networks/"
   - title: "Diseases"
-    url: "/design/page/"
+    url: "/projects/diseases/"
 
 
 - title: "Software"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Ontologizer"
-    url: "/design/typography/"
   - title: "Phenomizer"
-    url: "/design/typography/"
+    url: "/software/phenomizer/"
   - title: "PhenogramViz"
-    url: "/design/page/"
-  - title: "Exomiser"
-    url: "/design/post-left-sidebar/"
+    url: "/software/phenoviz/"
   - title: "ExomeWalker"
-    url: "/design/post-right-sidebar/"
+    url: "/software/exomewalker/"
   - title: "PhenIX"
-    url: "/design/grid/"
-  - title: "Jannovar"
-    url: "/design/page-fullwidth/"
-  - title: "Old projects"
-    url: "/blog/"
+    url: "/software/phenix/"
+
 
 - title: CV
   url: "/cv/"
