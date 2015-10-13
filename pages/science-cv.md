@@ -43,7 +43,7 @@ image:
       <td>2002 - 2005</td>
       <td><b>Bachelor student - Bioinformatics</b>, Freie Universität, Berlin. <br>Thesis title: <em>Development of a prototype platform to search for locally stored tissue samples for research and clinical trials</em></td>
     </tr>
-
+ </tbody>
 </table>
 
 <table>
@@ -79,5 +79,5 @@ image:
       <td>2004</td>
       <td><b>Internship</b>, MDC, Berlin. Bioinformatics group (Prof. Jens Reich)</td>
     </tr>
-
+ </tbody>
 </table>

@@ -33,6 +33,8 @@
   dropdown:
   - title: Publications
     url: "/science/publications/"
+  - title: Review
+    url: "/science/review/"
   - title: CV
     url: "/science/cv/"
 
