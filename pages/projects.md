@@ -1,12 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started"
-subheadline: "Overview of my projects"
+title: "Overview Projects"
 teaser: "This is a small summary of projects I have worked or I am working on."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/getting-started/"
+permalink: "/projects/"
 ---
 
 I have been working a lot with ontologies, starting from obo-formatted ontologies such as Gene Ontology and Human Phenotype Ontology. These and other ontologies have then

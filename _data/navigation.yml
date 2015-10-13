@@ -3,7 +3,7 @@
   side: left
 
 - title: Projects 
-  url: "/getting-started/"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "Ontologies"
@@ -15,7 +15,7 @@
 
 
 - title: "Software"
-  url: "/design/"
+  url: "/software/"
   side: left
   dropdown:
   - title: "Phenomizer"
