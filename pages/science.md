@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
-subheadline:  "HPO, GO, etc."
-title:  "Diseases"
-teaser: "This page give an overview about my work with different ontologies in the life science domain."
+subheadline:  "Science"
+title:  "Science"
+teaser: "Summary of my work in science."
 breadcrumb: true
 categories:
     - projects
-permalink: /projects/diseases/
+permalink: /science/
 header:
     image_fullwidth: "header_unsplash_8.jpg"
 image:
