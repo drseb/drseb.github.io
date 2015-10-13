@@ -8,9 +8,9 @@ categories:
     - projects
 permalink: /projects/networks/
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "header_unsplash_8.jpg"
 image:
-    thumb: "unsplash_brooklyn-bridge_thumb.jpg"
+    thumb: "header_unsplash_8.jpg"
 ---
 
 

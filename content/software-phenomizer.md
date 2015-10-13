@@ -8,9 +8,9 @@ categories:
     - software
 permalink: /software/phenomizer/
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "unsplash_leaf_header.jpg"
 image:
-    thumb: "unsplash_brooklyn-bridge_thumb.jpg"
+    thumb: "unsplash_leaf_header.jpg"
 ---
 
 
