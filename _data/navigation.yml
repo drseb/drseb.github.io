@@ -27,10 +27,15 @@
   - title: "PhenIX"
     url: "/software/phenix/"
 
-
-- title: CV
-  url: "/cv/"
+- title: "Science"
+  url: "/science/"
   side: left
+  dropdown:
+  - title: Publications
+    url: "/science/publications/"
+  - title: CV
+    url: "/science/cv/"
+
 
 - title: "Contact"
   url: "/contact/"

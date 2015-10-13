@@ -13,4 +13,3 @@ image:
     thumb: "unsplash_brooklyn-bridge_thumb.jpg"
 ---
 
-
