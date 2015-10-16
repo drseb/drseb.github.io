@@ -23,7 +23,10 @@ Determining the similarity between two proteins based on their relative location
 discrete nature of networks. In the simplest setting, two proteins can have a shortest-path distance of one, two, three, four... but seldomly more than five. Thus we
 have employed a random-walk based method for calculating the similarity between proteins.
  
-![Random walk for similarity calculations](images/rw.png)
+<figure>
+	<img src="images/rw.png" width="100%" alt="Random walk for similarity calculations" itemprop="image">
+	<figcaption class="text-right">Random walk for similarity calculations</figcaption>
+</figure>
 
 In the figure one can see how a random-walk based method can distinguish (increased similarity score) when two nodes are connected by increasing number of paths in the network - especially
 in situations where the shortest-path distance is constant (here two).
