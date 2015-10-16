@@ -24,7 +24,7 @@ discrete nature of networks. In the simplest setting, two proteins can have a sh
 have employed a random-walk based method for calculating the similarity between proteins.
  
 <figure>
-	<img src="images/rw.png" width="100%" alt="Random walk for similarity calculations" itemprop="image">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/rw.png" width="100%" alt="Random walk for similarity calculations" itemprop="image">
 	<figcaption class="text-right">Random walk for similarity calculations</figcaption>
 </figure>
 
