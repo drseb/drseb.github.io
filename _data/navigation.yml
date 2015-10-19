@@ -10,8 +10,8 @@
     url: "/projects/ontologies/"
   - title: "Networks"
     url: "/projects/networks/"
-  - title: "Diseases"
-    url: "/projects/diseases/"
+  - title: "Machine Learning"
+    url: "/projects/machinelearning/"
 
 
 - title: "Software"
