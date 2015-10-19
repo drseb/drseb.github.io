@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/drseb
   class: icon-github
-  title: "Sebastian on Github"
+  title: "drseb on Github"
 
 - name: LinkedIn 
   url: https://de.linkedin.com/in/koehlers
@@ -12,3 +12,8 @@
   url: https://scholar.google.com/citations?user=fqukiWoAAAAJ
   class: icon-lab-flask
   title: "Sebastian on GoogleScholar"
+
+- name: Twitter
+  url: http://twitter.com/bastikoh
+  class: icon-twitter
+  title: "Sebastian on twitter"
