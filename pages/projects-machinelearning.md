@@ -15,3 +15,9 @@ image:
 
 
 We are applying several machine learning methods to better understand rare and common human disease. 
+
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/images/disease-net.png" width="100%" alt="Ontolgies for constructing networks of diseases" itemprop="image">
+	<figcaption class="text-right">A network of diseases based on ontological similarity in HPO.</figcaption>
+</figure>

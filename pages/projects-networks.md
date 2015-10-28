@@ -25,7 +25,7 @@ have employed a random-walk based method for calculating the similarity between 
  
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/images/rw.png" width="100%" alt="Random walk for similarity calculations" itemprop="image">
-	<figcaption class="text-right">Random walk for similarity calculations</figcaption>
+	<figcaption class="text-right">Random walk for similarity calculations in complex networks.</figcaption>
 </figure>
 
 In the figure one can see how a random-walk based method can distinguish (increased similarity score) when two nodes are connected by increasing number of paths in the network - especially
