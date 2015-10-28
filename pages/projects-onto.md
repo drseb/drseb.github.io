@@ -15,6 +15,6 @@ image:
 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/reasoning.png" width="80%" alt="Use of 'building-block' ontologies for reasoning in phenotype ontologies" itemprop="image">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/reasoning.png" width="70%" align="middle" alt="Use of 'building-block' ontologies for reasoning in phenotype ontologies" itemprop="image">
 	<figcaption class="text-right">Using 'building-block' ontologies (here ChEBI) for reasoning in phenotype ontologies.</figcaption>
 </figure>
