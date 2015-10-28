@@ -19,7 +19,7 @@ For example we have create a network, with the nodes representing Mendelian dise
 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/disease-net.png" width="100%" alt="Ontolgies for constructing networks of diseases" itemprop="image">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/disease-net.png" style="display: table-caption; margin: 0 auto;" width="50%" alt="Ontolgies for constructing networks of diseases" itemprop="image">
 	<figcaption class="text-right">A network of diseases based on ontological similarity in HPO.</figcaption>
 </figure>
 
