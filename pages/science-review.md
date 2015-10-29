@@ -14,8 +14,8 @@ image:
 ---
 
 
-<table>
-  <caption>Summary of journals and conferences I have reviewed for.</caption>
+<table  style="width: 100%;">
+  <caption>Summary of journals and conferences where I have reviewed articles.</caption>
   <colgroup>
     <col span="1" style="width: 100%;"></col>
   </colgroup>
