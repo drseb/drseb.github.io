@@ -10,10 +10,10 @@ header:
 ---
 
 
-I am big fan of information visualisation. I love elegant web-applications. At the moment I am working a lot with [vaadin][1]. 
+I am big fan of information visualisation. I love elegant web-applications. At the moment I am working a lot with [vaadin][1]. I have previously worked with [Gephi][4]
 
 I have done some work using protein network analysis, namely I developed the [GeneWanderer][2] for identifying disease-relevant genes using a random-walk approach. 
-I also use machine learing methods such as SVMs etc.
+I also use machine learning methods such as SVMs etc.
 
 During my PhD I helped developing the [Human Phenotype Ontology][3]. I have published several tools and methods to harness the content of HPO 
 for several purposes. This lead me to the semantic web world.
@@ -23,3 +23,4 @@ I program in Java most of the time, but I speak multiple languages.
  [1]: https://vaadin.com/
  [2]: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fqukiWoAAAAJ&citation_for_view=fqukiWoAAAAJ:Tyk-4Ss8FVUC
  [3]: http://human-phenotype-ontology.org/
+ [4]: http://gephi.github.io/
