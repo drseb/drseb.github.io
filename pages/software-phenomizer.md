@@ -14,4 +14,4 @@ image:
 ---
 
 
-Coming soon...
+Clinical diagnsotics tool for physicians. Find the tool [here](http://compbio.charite.de/phenomizer/).

@@ -14,4 +14,4 @@ image:
 ---
 
 
-Coming soon...
+Visualisation of gene-phenotype relations in Copy-number variations. See the homepage [here](http://charite.github.io/software-phenoviz.html)

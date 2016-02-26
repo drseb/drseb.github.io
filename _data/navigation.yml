@@ -26,6 +26,8 @@
     url: "/software/exomewalker/"
   - title: "PhenIX"
     url: "/software/phenix/"
+  - title: "Exomiser"
+    url: "/software/exomiser/"
 
 - title: "Science"
   url: "/science/"
