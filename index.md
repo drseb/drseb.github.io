@@ -10,17 +10,17 @@ header:
    image_fullwidth: "header_unsplash_11.png"
 widget-1:
     title: "Projects & Interests"
-    url: 'http://github.com/drseb'
+    url:  '/projects'
     text: 'My current work focusses on semantic integration of biological data, with a special focus on...'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Software"
-    url: 'http://github.com/drseb'
+    url: '/software'
     text: 'Several research projects are lacking proper implementation...'
     image: github-303x182.jpg
 widget-3:
     title: "Blog"
-    url: 'http://drseb.github.io/blog/'
+    url: '/blog/'
     text: 'A tiny little blog...'
     image: unsplash_4-303x182.jpg
 ---

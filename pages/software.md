@@ -15,10 +15,15 @@ of the most important software projects I am developing or involved in. These ar
  * [PhenogramViz][2]
  * [ExomeWalker][3]
  * [PhenIX][4]
+ * [Exomiser][5]
  
+ 
+You can also have a look at my [github profile][6].
  
  
  [1]: {{ site.url }}/software/phenomizer/
  [2]: {{ site.url }}/software/phenoviz/
  [3]: {{ site.url }}/software/exomewalker/
  [4]: {{ site.url }}/software/phenix/
+ [5]: {{ site.url }}/software/exomiser/
+ [6]: https://github.com/drseb
