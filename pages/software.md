@@ -18,7 +18,7 @@ of the most important software projects I am developing or involved in. These ar
  * [Exomiser][5]
  
  
-You can also have a look at my [github profile][6].
+You can also have a look at [my GitHub profile][6] or [my GitLab profile][7] .
  
  
  [1]: {{ site.url }}/software/phenomizer/
@@ -27,3 +27,4 @@ You can also have a look at my [github profile][6].
  [4]: {{ site.url }}/software/phenix/
  [5]: {{ site.url }}/software/exomiser/
  [6]: https://github.com/drseb
+ [7]: https://gitlab.com/drseb
