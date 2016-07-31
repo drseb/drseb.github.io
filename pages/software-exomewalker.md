@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  "Random walks to find disease related variants"
-title:  "ExomeWalder"
+title:  "ExomeWalker"
 teaser: "This page give an overview about the ExomeWalker."
 breadcrumb: true
 categories:
@@ -14,4 +14,4 @@ image:
 ---
 
 
-See [ExomeWalker](http://compbio.charite.de/ExomeWalker/) tool
+See [ExomeWalker](http://compbio.charite.de/ExomeWalker/) tool.
