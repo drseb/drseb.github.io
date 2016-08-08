@@ -10,6 +10,10 @@
   class: "network-entypo"
   title: "Monarch-Initiative"
 
+- name: "Phenomics Team Homepage"
+  url: "http://phenomics.github.io/"
+  class: "network-entypo"
+  title: "Phenomics Team Homepage"
 
 - name: "CBCB Homepage"
   url: "http://charite.github.io/"
