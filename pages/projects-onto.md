@@ -14,7 +14,7 @@ image:
 ---
 
 I am one of the founders and major developers of the [Human Phenotype Ontology][1]. I also work a lot with the developers of the Mammalian Phenotype Ontology to improve cross species alignment between phenotype ontologies by means of machine learning (i.e. automated reasoning techniques). 
-I am also responsible for creating the [OWL representation][2] of the zebra fish phenotypes provided by ZFIN, which is subsequently consumed by ontologies such as [monarch.owl][3].
+I am also responsible for creating the [OWL representation][2] of the zebra fish phenotypes provided by ZFIN, which is  consumed by ontologies such as [monarch.owl][3].
 
 
 <figure>
