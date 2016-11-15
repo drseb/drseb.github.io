@@ -12,7 +12,7 @@ header: no
 ---
 
 I gave a three minute presentation at the [Science Match - Future medicine event][1]. An interesting format 
-to present science and quiet an experience to speak in front of around 600 people. 
+to present science and quite an experience to speak in front of around 600 people. 
 
 
 ### Related posts
