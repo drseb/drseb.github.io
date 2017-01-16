@@ -209,3 +209,6 @@ sass:
 
 google_analytics_tracking_id: UA-62837903-4
 
+
+
+gems: [jekyll-paginate]

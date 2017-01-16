@@ -17,8 +17,8 @@ image:
 <table>
   <caption>A short education CV of drseb</caption>
   <colgroup>
-    <col span="1" style="width: 25%;"></col>
-    <col span="1" style="width: 75%;"></col>
+    <col span="1" style="width: 25%;"/>
+    <col span="1" style="width: 75%;"/>
   </colgroup>
   <thead>
     <tr>
@@ -49,8 +49,8 @@ image:
 <table>
   <caption>A short employment CV of drseb</caption>
   <colgroup>
-    <col span="1" style="width: 25%;"></col>
-    <col span="1" style="width: 75%;"></col>
+    <col span="1" style="width: 25%;"/>
+    <col span="1" style="width: 75%;"/>
   </colgroup>
   <thead>
     <tr>
