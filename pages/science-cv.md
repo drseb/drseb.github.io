@@ -59,6 +59,10 @@ image:
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>2017 - present</td>
+      <td><b>Research associate</b>, NeuroCure Cluster of Excellence, Charité - Universitätsmedizin Berlin.</td>
+    </tr>
     <tr>
       <td>2007 - present</td>
       <td><b>Research associate</b>, Computational Biology Department, Institute for Medical Genetics and Human Genetics, Charité, Berlin.</td>
