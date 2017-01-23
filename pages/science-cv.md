@@ -27,8 +27,12 @@ image:
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>2017 - present</td>
+      <td><b>PostDoc</b>, NeuroCure Cluster of Excellence (HIPBI grant), Charité, Berlin.</td>
+    </tr>
     <tr>
-      <td>2013 - present</td>
+      <td>2013 - 2016</td>
       <td><b>PostDoc</b>, Computational Biology Department, Institute for Medical Genetics and Human Genetics, Charité, Berlin.</td>
     </tr>
     <tr>
