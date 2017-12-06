@@ -61,6 +61,9 @@ image:
 <tr>
       <td>Phenotype-Day @ ISMB</td>
     </tr>
+    <tr>
+      <td>IMIA Yearbook of Medical Informatics (2017/2018)</td>
+    </tr>
  </tbody>
 </table>
 
