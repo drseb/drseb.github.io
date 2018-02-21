@@ -15,7 +15,7 @@ image:
 
 
 <table  style="width: 100%;">
-  <caption>Summary of journals and conferences where I have reviewed articles.</caption>
+  <caption>Summary of journals and conferences where I have reviewed articles or have been in the program committee.</caption>
   <colgroup>
     <col span="1" style="width: 100%;"/>
   </colgroup>
@@ -62,7 +62,13 @@ image:
       <td>Phenotype-Day @ ISMB</td>
     </tr>
     <tr>
-      <td>IMIA Yearbook of Medical Informatics (2017/2018)</td>
+      <td>IMIA Yearbook of Medical Informatics (2017)</td>
+    </tr>
+     <tr>
+      <td>IMIA Yearbook of Medical Informatics (2018)</td>
+    </tr>
+     <tr>
+      <td>ESWC (2018)</td>
     </tr>
  </tbody>
 </table>
