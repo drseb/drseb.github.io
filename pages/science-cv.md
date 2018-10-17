@@ -28,7 +28,11 @@ image:
   </thead>
   <tbody>
   <tr>
-      <td>2017 - present</td>
+      <td>2018 - present</td>
+      <td><b>Juniorprofessor</b>Charité, BIH, Einstein Center Digital Future.</td>
+    </tr>
+  <tr>
+      <td>2017 - 2018</td>
       <td><b>PostDoc</b>, NeuroCure Cluster of Excellence (HIPBI grant), Charité, Berlin.</td>
     </tr>
     <tr>
@@ -63,6 +67,10 @@ image:
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td>2017 - 2018</td>
+      <td><b>Juniorprofessor</b>,Charité, BIH, Einstein Center Digital Future</td>
+    </tr>
   <tr>
       <td>2017 - present</td>
       <td><b>Research associate</b>, NeuroCure Cluster of Excellence, Charité - Universitätsmedizin Berlin.</td>
