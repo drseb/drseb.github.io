@@ -29,7 +29,7 @@ image:
   <tbody>
   <tr>
       <td>2018 - present</td>
-      <td><b>Juniorprofessor</b>Charité, BIH, Einstein Center Digital Future.</td>
+      <td><b>Juniorprofessor</b>, Charité, BIH, Einstein Center Digital Future.</td>
     </tr>
   <tr>
       <td>2017 - 2018</td>
@@ -69,7 +69,7 @@ image:
   <tbody>
    <tr>
       <td>2017 - 2018</td>
-      <td><b>Juniorprofessor</b>,Charité, BIH, Einstein Center Digital Future</td>
+      <td><b>Juniorprofessor</b>, Charité, BIH, Einstein Center Digital Future</td>
     </tr>
   <tr>
       <td>2017 - present</td>
