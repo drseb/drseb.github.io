@@ -37,6 +37,8 @@
     url: "/science/publications/"
   - title: Reviewer
     url: "/science/review/"
+  - title: Grants
+    url: "/science/grants/"
   - title: CV
     url: "/science/cv/"
 
