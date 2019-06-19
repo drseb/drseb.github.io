@@ -13,15 +13,15 @@ widget-1:
     url:  '/projects'
     text: 'My current work focusses on semantic integration of biological data, with a special focus on...'
     image: unsplash_9-302x182.jpg
-widget-2:
-    title: "Software"
-    url: '/software'
-    text: 'Several research projects are lacking proper implementation...'
-    image: github-303x182.jpg
-widget-3:
-    title: "Blog"
-    url: '/blog/'
-    text: 'A tiny little blog...'
-    image: unsplash_4-303x182.jpg
+#widget-2:
+#    title: "Software"
+#    url: '/software'
+#    text: 'Several research projects are lacking proper implementation...'
+#    image: github-303x182.jpg
+#widget-3:
+#    title: "Blog"
+#    url: '/blog/'
+#    text: 'A tiny little blog...'
+#    image: unsplash_4-303x182.jpg
 ---
 
