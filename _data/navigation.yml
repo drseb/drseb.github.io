@@ -2,32 +2,7 @@
   url: "/"
   side: left
 
-- title: Projects 
-  url: "/projects/"
-  side: left
-  dropdown:
-  - title: "Ontologies"
-    url: "/projects/ontologies/"
-  - title: "Networks"
-    url: "/projects/networks/"
-  - title: "Machine Learning"
-    url: "/projects/machinelearning/"
 
-
-- title: "Software"
-  url: "/software/"
-  side: left
-  dropdown:
-  - title: "Phenomizer"
-    url: "/software/phenomizer/"
-  - title: "PhenogramViz"
-    url: "/software/phenoviz/"
-  - title: "ExomeWalker"
-    url: "/software/exomewalker/"
-  - title: "PhenIX"
-    url: "/software/phenix/"
-  - title: "Exomiser"
-    url: "/software/exomiser/"
 
 - title: "Science"
   url: "/science/"
