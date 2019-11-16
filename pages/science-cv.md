@@ -30,7 +30,7 @@ image:
   <tr>
       <td>2018 - present</td>
       <td><b>Juniorprofessor</b>, Charité, BIH, Einstein Center Digital Future.</td>
-    </tr>
+  </tr>
   <tr>
       <td>2017 - 2018</td>
       <td><b>PostDoc</b>, NeuroCure Cluster of Excellence (HIPBI grant), Charité, Berlin.</td>
