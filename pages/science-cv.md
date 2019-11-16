@@ -28,7 +28,12 @@ image:
   </thead>
   <tbody>
   <tr>
-      <td>2018 - present</td>
+      <td>2019 - present</td>
+      <td><br>Information Architect<br>, Ada Health (also Monarch Initiative)</td>
+    </tr>
+  <tr>
+  <tr>
+      <td>2018 - 2019</td>
       <td><b>Juniorprofessor</b>, Charité, BIH, Einstein Center Digital Future.</td>
   </tr>
   <tr>
@@ -67,8 +72,12 @@ image:
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>since 2019</td>
+      <td><b>Information Architect</b>, Ada Health</td>
+    </tr>
    <tr>
-      <td>since 2018</td>
+      <td>2018-2019</td>
       <td><b>Juniorprofessor</b>, Charité, BIH, Einstein Center Digital Future</td>
     </tr>
   <tr>
