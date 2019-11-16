@@ -32,7 +32,6 @@ image:
       <td><br>Information Architect<br>, Ada Health (also Monarch Initiative)</td>
     </tr>
   <tr>
-  <tr>
       <td>2018 - 2019</td>
       <td><b>Juniorprofessor</b>, Charité, BIH, Einstein Center Digital Future.</td>
   </tr>
